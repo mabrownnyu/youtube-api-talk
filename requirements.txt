@@ -1,0 +1,2 @@
+youtube-data-api==0.0.10
+pandas
