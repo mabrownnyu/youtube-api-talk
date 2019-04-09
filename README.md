@@ -5,6 +5,8 @@ This repo contains the Jupyter Notebook demo for my talk at [Politics and YouTub
 ## To install the requirements for this demo:
 `pip install -r requirements.txt`
 
-## [Slides](https://docs.google.com/presentation/d/1lKyufKiVxJ1sOd8lLe98fI4fKBNAb3k0mATqW1_xC0A/edit#slide=id.g562c150fd2_0_0)
-## [YouTube-Data-API Package](https://github.com/SMAPPNYU/youtube-data-api)
-## [NB-Viewer]
+## Links
+
+### [Slides](http://bit.ly/api-talk-slides)
+### [YouTube-Data-API Package](http://bit.ly/youtube-data-api)
+### [NB-Viewer](http://bit.ly/api-demo-nb)
