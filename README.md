@@ -7,6 +7,6 @@ This repo contains the Jupyter Notebook demo for my talk at [Politics and YouTub
 
 ## Links
 
-### [Slides](http://bit.ly/api-talk-slides)
+### [Slides](http://bit.ly/yt-slides)
 ### [YouTube-Data-API Package](http://bit.ly/youtube-data-api)
-### [NB-Viewer](http://bit.ly/api-demo-nb)
+### [NB-Viewer](http://bit.ly/demo-notebook)
